@@ -6,6 +6,37 @@
 
 The Random JSON Generator is a desktop application written in Python using Tkinter. It enables the generation of JSON files with random data. The application allows users to choose the number of files to generate, specify a custom file name, and select a directory for file storage.
 
+### Sample JSON file created with Random JSON Generator
+
+```
+{
+    "OzybGM2F0vE1qaY": {
+        "yIr5sVACzq7": "fdqYf51AFtNlBF",
+        "8K5uoOC": {
+            "1J3e7zjk": 17,
+            "WlwKvcVo": {
+                "tPcLTIUP4v": "m45ZpIA4af0HELM",
+                "zYOJrDFYSGDay7": "mmN68oC4sK",
+                "xk3hNVow4r": "mXLJGbtOS",
+                "L1uU7k8B": 45,
+                "lIHYFAOx4P": 66
+            },
+            "WJ9sY0": "8WukTssoP",
+            "GHes5QcSb": 94,
+            "JqtvdJLxnMgFoRv": 26.62
+        },
+        "b4QIGZqEGoR": {
+            "8yGQOGbfRGhsjT": 44.41,
+            "cHYs7DBsYcMg9": {
+                "VKZxueWeYSpXZ": 10.98,
+                "2GQfdffPZ": "fakxlmj3ZkQyPiy"
+            }
+        }
+    },
+    "xKTTFbGee": 2.43
+}
+```
+
 ## Installation
 
 To use the Random JSON Generator, follow these steps:
